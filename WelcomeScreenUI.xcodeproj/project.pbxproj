@@ -13,6 +13,7 @@
 		96F412B0299159F300E37DE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96F412AE299159F300E37DE1 /* Main.storyboard */; };
 		96F412B2299159F500E37DE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96F412B1299159F500E37DE1 /* Assets.xcassets */; };
 		96F412B5299159F500E37DE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96F412B3299159F500E37DE1 /* LaunchScreen.storyboard */; };
+		96F412BD2991626000E37DE1 /* CheckBoxButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F412BC2991626000E37DE1 /* CheckBoxButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96F412B1299159F500E37DE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96F412B4299159F500E37DE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96F412B6299159F500E37DE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96F412BC2991626000E37DE1 /* CheckBoxButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBoxButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				96F412A8299159F300E37DE1 /* AppDelegate.swift */,
 				96F412AA299159F300E37DE1 /* SceneDelegate.swift */,
 				96F412AC299159F300E37DE1 /* ViewController.swift */,
+				96F412BC2991626000E37DE1 /* CheckBoxButton.swift */,
 				96F412AE299159F300E37DE1 /* Main.storyboard */,
 				96F412B1299159F500E37DE1 /* Assets.xcassets */,
 				96F412B3299159F500E37DE1 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				96F412AD299159F300E37DE1 /* ViewController.swift in Sources */,
 				96F412A9299159F300E37DE1 /* AppDelegate.swift in Sources */,
+				96F412BD2991626000E37DE1 /* CheckBoxButton.swift in Sources */,
 				96F412AB299159F300E37DE1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
